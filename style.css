@@ -1,0 +1,347 @@
+body{
+	background-color: #F45757;
+	background-image: url(media/bg1.jpg);
+}
+
+.menu{
+	width: 100%;
+}
+
+.menu a{
+	text-decoration: none;
+	font-family: 'Lobster', cursive;
+	font-size: 50px;
+	color: #3D2A2A;
+}
+
+.menu a:hover{
+	color: #ECE1E1;
+}
+
+.menu li{
+	list-style-type: none;
+	display: inline-block;
+	background-color: #ECE1E1;
+	width: 23.9%;
+	height: 65px;
+	text-align: center;
+}
+
+.menu li:hover{
+	background-color: #3D2A2A;
+}
+
+.container{
+	text-align: center;
+}
+
+.texto{
+	font-family: 'Joan', serif;
+	font-size: 30px;
+	text-align: justify;
+	color: #3D2A2A;
+}
+
+.textotitle{
+	font-family: 'Lobster', cursive;
+	font-size: 100px;
+	text-align: center;
+	color: #3D2A2A;
+}
+
+.gal1{
+width:33%;
+height:400px;
+color: #3D2A2A;
+font-family: 'Joan', serif;
+font-size: 20px;
+text-align: justify;
+display: inline-block;
+float:left;
+background-color:#ECE1E1;
+border-radius:15% 15% 0% 0% ;
+}
+
+.galeria1{
+background-image: url("media/folr.jpg");
+background-size:100% 500px;
+width:100%;
+height:500px;	
+border-radius:15% 15% 0% 0% ;
+}
+
+.galeria1:hover{
+background-image: url("media/forl1.jpeg");	
+}
+
+.gal2{
+width:33%;
+height:400px;
+color: #3D2A2A;
+font-family: 'Joan', serif;
+font-size: 20px;
+text-align: center;
+display: inline-block;
+float:center;
+background-color:#ECE1E1;
+border-radius:15% 15% 0% 0% ;
+}
+
+.galeria2{
+background-image: url("media/luna.jpeg");
+background-size:100% 500px;
+width:100%;
+height:500px;		
+border-radius:15% 15% 0% 0% ;
+}
+
+.gal3{
+width:33%;
+height:400px;
+color: #3D2A2A;
+font-family: 'Joan', serif;
+font-size: 20px;
+text-align: center;
+display: inline-block;
+float:right;
+background-color:#ECE1E1;
+border-radius:15% 15% 0% 0% ;
+}
+
+.galeria3{
+background-image: url("media/not-chon.jpg");
+background-size:100% 500px;
+width:100%;
+height:500px;		
+border-radius:15% 15% 0% 0%;
+}
+
+.galeria3:hover{
+background-image: url("media/gatomillonario.jpg");	
+}
+
+.miem1{
+width:33%;
+height:400px;
+color: #3D2A2A;
+font-family: 'Joan', serif;
+font-size: 20px;
+text-align: center;
+display: inline-block;
+float:left;
+background-color:#ECE1E1;
+border-radius:15% 15% 0% 0% ;
+}
+
+.miembros1{
+background-image: url("media/Mario2.jpg");
+background-size:100% 500px;
+width:100%;
+height:500px;	
+border-radius:15% 15% 0% 0% ;
+}
+
+.miembros1:hover{
+background-image: url("media/MarioCamarena1.jpg");	
+}
+
+.miem2{
+width:33%;
+height:400px;
+color: #3D2A2A;
+font-family: 'Joan', serif;
+font-size: 20px;
+text-align: center;
+display: inline-block;
+float:center;
+background-color:#ECE1E1;
+}
+
+.miembro2{
+background-image: url("media/Erick1.jpg");
+background-size:100% 500px;
+width:100%;
+height:500px;	
+}
+
+.miembro2:hover{
+background-image: url("media/Erick2.jpg");	
+}
+
+
+.miem3{
+width:33%;
+height:400px;
+color: #3D2A2A;
+font-family: 'Joan', serif;
+font-size: 20px;
+text-align: center;
+display: inline-block;
+float:right;
+background-color:#ECE1E1;
+border-radius:15% 15% 0% 0% ;
+}
+
+.miembro3{
+background-image: url("media/esiah.png");
+background-size:100% 500px;
+width:100%;
+height:500px;		
+border-radius:15% 15% 0% 0% ;
+float: right;
+}
+
+.espacio{
+width:33%;
+height:400px;
+color: #3D2A2A;
+font-family: 'Joan', serif;
+font-size: 20px;
+text-align: center;
+display: inline-block;
+float:right;
+border-radius:15% 15% 0% 0% ;
+}
+
+.miem4{
+width:33%;
+height:400px;
+color: #3D2A2A;
+font-family: 'Joan', serif;
+font-size: 20px;
+text-align: center;
+display: inline-block;
+float:right;
+background-color:#ECE1E1;
+}
+
+.miembro4{
+background-image: url("media/Nathan.jpg");
+background-size:100% 500px;
+width:100%;
+height:500px;		
+float: right;
+}
+
+.disc{
+width:33%;
+height:400px;
+color: #3D2A2A;
+font-family: 'Joan', serif;
+font-size: 20px;
+text-align: center;
+display: inline-block;
+float:left;
+background-color:#ECE1E1;
+border-radius:15% 15% 0% 0% ;
+}
+
+.disco1{
+background-image: url("media/mori.jpg");
+background-size:100% 600px;
+width:100%;
+height:600px;	
+}
+
+.disc2{
+width:33%;
+height:400px;
+color: #3D2A2A;
+font-family: 'Joan', serif;
+font-size: 20px;
+text-align: center;
+display: inline-block;
+float:center;
+background-color:#ECE1E1;
+}
+
+.disco2{
+background-image: url("media/vermillion.jpg");
+background-size:100% 600px;
+width:100%;
+height:600px;	
+}
+
+.disc3{
+width:33%;
+height:400px;
+color: #3D2A2A;
+font-family: 'Joan', serif;
+font-size: 20px;
+text-align: center;
+display: inline-block;
+float:right;
+background-color:#ECE1E1;
+}
+
+.disco3{
+background-image: url("media/nayhoo.jpg");
+background-size:100% 600px;
+width:100%;
+height:600px;	
+}
+
+.disc4{
+width:33%;
+height:400px;
+color: #3D2A2A;
+font-family: 'Joan', serif;
+font-size: 20px;
+text-align: center;
+display: inline-block;
+float:left;
+background-color:#ECE1E1;
+}
+
+.disco4{
+background-image: url("media/tokio.jpg");
+background-size:100% 600px;
+width:100%;
+height:600px;	
+}
+
+.disc5{
+width:33%;
+height:400px;
+color: #3D2A2A;
+font-family: 'Joan', serif;
+font-size: 20px;
+text-align: center;
+display: inline-block;
+float:center;
+background-color:#ECE1E1;
+}
+
+.disco5{
+background-image: url("media/chon.jpg");
+background-size:100% 600px;
+width:100%;
+height:600px;	
+}
+
+.disc6{
+width:33%;
+height:400px;
+color: #3D2A2A;
+font-family: 'Joan', serif;
+font-size: 20px;
+text-align: center;
+display: inline-block;
+float:center;
+background-color:#ECE1E1;
+}
+
+.disco6{
+background-image: url("media/hmc.png");
+background-size:100% 600px;
+width:100%;
+height:600px;	
+}
+
+.arriba{
+	position: sticky;
+	top: 0%;
+	left: 0%;
+	width: 50px;
+	height: 50px;
+}
